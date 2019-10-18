@@ -18,5 +18,6 @@ MonoBehaviour:
   oneStarTime: 45
   twoStarTime: 35
   threeStarTime: 25
+  ignore: 1
   levelScene: {fileID: 102900000, guid: 8e80dae27616da241995f2290dca03b7, type: 3}
   menuScene: {fileID: 102900000, guid: 0d85e03bacb199f408b4439fac4e3d46, type: 3}

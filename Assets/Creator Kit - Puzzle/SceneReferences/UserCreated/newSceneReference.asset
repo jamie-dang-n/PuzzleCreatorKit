@@ -12,12 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c3d211144b02db9469c92f119740e451, type: 3}
   m_Name: newSceneReference
   m_EditorClassIdentifier: 
-  levelBuildIndex: 0
+  levelBuildIndex: 1
   menuBuildIndex: 0
-  earnedStars: 0
-  oneStarTime: 0
-  twoStarTime: 0
-  threeStarTime: 0
+  earnedStars: 3
+  oneStarTime: 90
+  twoStarTime: 60
+  threeStarTime: 45
   ignore: 0
   levelScene: {fileID: 102900000, guid: dc8bff273dba8fd418f805a88e5f120c, type: 3}
   menuScene: {fileID: 102900000, guid: 016eb908df685744b846c70f76218cee, type: 3}

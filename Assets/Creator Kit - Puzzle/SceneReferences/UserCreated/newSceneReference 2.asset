@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: newSceneReference 2
   m_EditorClassIdentifier: 
   levelBuildIndex: 0
-  menuBuildIndex: 0
+  menuBuildIndex: 3
   earnedStars: 0
   oneStarTime: 0
   twoStarTime: 0
   threeStarTime: 0
   ignore: 0
-  levelScene: {fileID: 102900000, guid: 390b6010997e18147bf82daf0bd1da5c, type: 3}
-  menuScene: {fileID: 102900000, guid: 016eb908df685744b846c70f76218cee, type: 3}
+  levelScene: {fileID: 102900000, guid: 016eb908df685744b846c70f76218cee, type: 3}
+  menuScene: {fileID: 102900000, guid: c065003158c5d3047b88e65e2b93f039, type: 3}
